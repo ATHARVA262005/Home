@@ -7,6 +7,7 @@ Welcome to my personal portfolio project, built with React.js! This portfolio sh
 ## Live Demo
 
 Visit the live portfolio at atharvaralegankar.me.
+[atharvaralegankar.me](atharvaralegankar.me)
 
 
 ## Features
